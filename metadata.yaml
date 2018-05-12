@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '36315'
     url: http://www.gutenberg.org/2009/agents/36315
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33296#Five-Young-Men--Messages-of-Yesterday-for-the-Young-Men-of-To-day
 gutenberg_issued: '2010-07-30'
 gutenberg_type: Text
 identifiers:
