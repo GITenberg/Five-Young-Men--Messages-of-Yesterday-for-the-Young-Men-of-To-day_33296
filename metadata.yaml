@@ -1,0 +1,30 @@
+_repo: Five-Young-Men--Messages-of-Yesterday-for-the-Young-Men-of-To-day_33296
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brown, Charles Reynolds
+    alias: Brown, Charles R. (Charles Reynolds)
+    birthdate: 1862
+    deathdate: 1950
+    gutenberg_agent_id: '36315'
+    url: http://www.gutenberg.org/2009/agents/36315
+description: ''
+gutenberg_issued: '2010-07-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33296'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BS'
+- !lcsh 'Men in the Bible'
+tableOfContents: The young man who was a favourite son -- The young man who was an
+  athlete -- The young man who became king -- The young man who was born to the purple
+  -- The young man who changed the history of the world.
+title: 'Five Young Men: Messages of Yesterday for the Young Men of To-day'
+url: http://www.gutenberg.org/ebooks/33296
